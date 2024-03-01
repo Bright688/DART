@@ -4,18 +4,18 @@ void main() {
   print('John age is ${age}');
 
   //double data type
-  double weight=50.5;
+  double weight = 50.5;
   print('John weight is ${weight}');
 
   //string data type
-  String profession="doctor";
+  String profession = "doctor";
   print('john is a ${profession}');
 
   //List data type
-  List hobbies=["reading", "listening to music", "skipping"];
-print('John hobbies are ${hobbies}');
+  List hobbies = ["reading", "listening to music", "skipping"];
+  print('John hobbies are ${hobbies}');
 
   //map data type
-  Map lang={"language1": "English", "language2": "French"};
+  Map lang = {"language1": "English", "language2": "French"};
   print('John languages are ${lang}');
 }
