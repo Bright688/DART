@@ -17,18 +17,12 @@ class Dog implements Animal{
 class Vehicle{
   String brand;
   int year;
+
   //Constructor
   Vehicle(this.brand, this.year);
 
   void display(){
     print('Brand: $brand, Year: $year');
-  }
-  
-  buy(){
-    
-  }
-  void available(){
-    
   }
 }
 
