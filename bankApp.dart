@@ -1,4 +1,4 @@
-//create a bank app that can deposit  withdraw, retrieve balance and access.
+ //create a bank app that can deposit  withdraw, retrieve balance and access.
 //create a current account and savings account.
 
 //create class BankAccount
